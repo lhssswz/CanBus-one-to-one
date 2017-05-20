@@ -1,0 +1,4 @@
+"STARTUP.obj",
+".\Master.obj" 
+TO "Master" 
+RAMSIZE(256) 
