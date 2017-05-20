@@ -1,0 +1,4 @@
+"STARTUP.obj",
+".\Servant.obj" 
+TO "Servant" 
+RAMSIZE(256) 
